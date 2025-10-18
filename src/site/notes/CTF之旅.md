@@ -15,11 +15,11 @@
 
 ### 目录
 该文章目前包含的内容包括：
-- [x] [[CTF/方向/Reverse/Reverse\|Reverse]]
-- [ ] [[CTF/方向/Pwn\|Pwn]]
-- [ ] [[CTF/方向/Crypto\|Crypto]]
-- [ ] [[CTF/方向/Web\|Web]]
-- [ ] [[CTF/方向/Misc\|Misc]]
+- [x] [[开始学习CTF/方向/Reverse/Reverse\|Reverse]]
+- [ ] [[开始学习CTF/方向/Pwn\|Pwn]]
+- [ ] [[开始学习CTF/方向/Crypto\|Crypto]]
+- [ ] [[开始学习CTF/方向/Web\|Web]]
+- [ ] [[开始学习CTF/方向/Misc\|Misc]]
 
 应该会不断更新
 我也在一直学习，这个顺序大概就是我学习的顺序了
